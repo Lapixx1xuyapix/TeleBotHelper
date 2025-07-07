@@ -14,8 +14,8 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/ваш-пользователь/telegram-bot-builder.git
-cd telegram-bot-builder
+git clone https://github.com/ваш-пользователь/telebothelper.git
+cd telebothelper.git
 
 # Установить зависимости
 pip install -r requirements.txt
